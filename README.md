@@ -1,8 +1,8 @@
 - 👋 **Hi, I’m Zek**
 - 👨‍🎓 A CS Student
-- 👀 Interested in becoming a **Software Engineer**, **Developer** and **Web Developer**
+- 👀 Interested in becoming a **Software Engineer**, **Developer**, **Web Developer** and **Game Developer**
 - 🔰 A literal beginner in terms of programming.
-- 🦾 I’m currently learning **C# and HTML**
+- 🦾 I’m currently learning **C#, Unity and Web Development**
 - 🌱 Is willing to learn to and improve.
 
 <!---
