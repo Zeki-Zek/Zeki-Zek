@@ -9,7 +9,7 @@ learning new technologies and improving my programming skills.
 
 ### Technologies
 
-C# • Java • Python • HTML • CSS • JavaScript
+C# • Java • Python • HTML • CSS 
 Unity • Git • GitHub
 
 ### Featured Project
