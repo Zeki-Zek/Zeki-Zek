@@ -14,12 +14,13 @@ Unity • Git • GitHub
 
 ### Featured Project
 
-# Latent Notes
+### Latent Notes
+A fast markdown editor built with Tauri, Rust, and Svelte 5 that treats your notes like a relational database. It features an embedded Document Query Language (DQL) for aggregating notes into dynamic data tables and uses a local vector search engine to find related topics entirely offline.
 
-# Ghost in the PowerShell
+### Ghost in the PowerShell
 A 3D raycasting horror maze game built in C#.
 
-# BitBrush | PixelArtProgram
+### BitBrush | PixelArtProgram
 A pixel art application fully built in C#.
 
 ### Currently Learning
@@ -28,4 +29,4 @@ A pixel art application fully built in C#.
 - Java & OOP
 - Web Development
 - Game Development
-- Data Structures & Algorithms
+
